@@ -1,0 +1,5 @@
+﻿  newcppfile04.cpp
+Z:\labfiles\newcppfile04\newcppfile04\newcppfile04.cpp(98,9): warning C4804: '<': unsafe use of type 'bool' in operation
+Z:\labfiles\newcppfile04\newcppfile04\newcppfile04.cpp(93,15): warning C4101: 'i': unreferenced local variable
+Z:\labfiles\newcppfile04\newcppfile04\newcppfile04.cpp(93,18): warning C4101: 'n': unreferenced local variable
+  newcppfile04.vcxproj -> Z:\labfiles\newcppfile04\x64\Debug\newcppfile04.exe
